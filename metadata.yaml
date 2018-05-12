@@ -1,0 +1,30 @@
+_repo: Noodlot_17659
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17659-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Louis_Couperus
+    - http://nl.wikipedia.org/wiki/Louis_Couperus
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17659'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Noodlot
+url: http://www.gutenberg.org/ebooks/17659
